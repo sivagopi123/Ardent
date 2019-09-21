@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ardent.Mvc", "Ardent.Mvc\Ardent.Mvc.csproj", "{D2FAC51D-D9AC-44BB-96C3-BF504012AE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FAC51D-D9AC-44BB-96C3-BF504012AE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FAC51D-D9AC-44BB-96C3-BF504012AE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FAC51D-D9AC-44BB-96C3-BF504012AE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FAC51D-D9AC-44BB-96C3-BF504012AE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BD6736-0DAD-4FB3-AF64-DA74F5E2A167}
+	EndGlobalSection
+EndGlobal
